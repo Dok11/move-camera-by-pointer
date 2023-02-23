@@ -51,7 +51,7 @@ myCam.addBehavior(moveCameraByPointer);
 
 ## Options
 
-- `directionForces` - The force of the pointer in each direction (`[number, number]`) or both (`number`). Defaults to `1`.
+- `directionForces` - The maximum radian rotation of the pointer in each direction (`[number, number]`) or both (`number`). Defaults to `0.03`.
 - `pointerElement` - The element to listen pointermove events on. Defaults to `window`.
 - `onBeforeUpdate` - A function that is called before the node is updated. This function is passed the progress value and should return the progress value to use.
 
