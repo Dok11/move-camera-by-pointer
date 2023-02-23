@@ -1,6 +1,6 @@
 {
   "name": "move-camera-by-pointer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Behavior class that adds tiny camera movement by pointer move",
   "keywords": [
     "babylonjs",
